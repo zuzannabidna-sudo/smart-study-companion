@@ -16,9 +16,9 @@ The application is fully customizable. To adapt the question database to your ow
 
 # Tech Stack
 
-**Language:** Kotlin
-**UI Framework:** Jetpack Compose (Material 3)
-**Component:** Android AppWidget API (Optimized for Android 12+)
-**Minimum SDK:** API 31 (Android 12)
-**Target SDK:** API 34 (Android 14)
-**Build System:** Gradle (Kotlin DSL)
+* **Language:** Kotlin
+* **UI Framework:** Jetpack Compose (Material 3)
+* **Component:** Android AppWidget API (Optimized for Android 12+)
+* **Minimum SDK:** API 31 (Android 12)
+* **Target SDK:** API 34 (Android 14)
+* **Build System:** Gradle (Kotlin DSL)
